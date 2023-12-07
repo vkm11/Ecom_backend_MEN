@@ -1,4 +1,7 @@
 # Install Packages or Liabraries
+
+npm init -y && npm install express mongoose nodemon && touch .env
+
 1) npm install express colors
 2) npm i nodemon   
     - using of this automatically server will start no need to start againe and againe.
