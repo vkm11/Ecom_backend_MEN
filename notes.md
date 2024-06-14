@@ -17,8 +17,11 @@ npm init -y && npm install express mongoose nodemon && touch .env
     v)controllers
 5) npm i bcrypt
 6) install postman
-7) json web token application secure 
+7) npm install morgan
+8) npm install cors
+
+9) json web token application secure 
     - npm install jsonwebtoken
 
-8) middleware inside 
+10) middleware inside 
     - authMiddleware.js
